@@ -14,4 +14,6 @@ Contact – Basic contact section with details or simple contact form.
 
 # How to View
 
+You can access my greenden tailwind simple website by [Live link] https://arunkumard4693-sys.github.io/Greenden-tailwind-simple-website/
+
 Thank you for visiting Greenden!
